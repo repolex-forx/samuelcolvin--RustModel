@@ -1,0 +1,11 @@
+{
+  "org": "samuelcolvin",
+  "repo": "RustModel",
+  "versions": [
+    {
+      "commit": "df61fe03a31f415f6c643702f7ee1de6c4451c0d",
+      "tag": "",
+      "parsed_at": "2026-10-11T22:09:56.078073+00:00"
+    }
+  ]
+}
